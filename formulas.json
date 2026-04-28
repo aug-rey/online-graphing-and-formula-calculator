@@ -1,0 +1,1 @@
+{"area of a rectangle": "[length] * [width]", "perimeter of rectangle": "[length] + [length] + [width] + [width]", "area of a triangle": "[base] * [height] / 2", "circumference of a circle": "pi * 2 * [radius]", "area of a circle": "pi * [radius]^2", "hypotenuse of a right triangle": "sqrt([leg 1]^2 + [leg 2]^2)", "leg of a right triangle": "sqrt([hypotenuse]^2 - [leg]^2)"}
